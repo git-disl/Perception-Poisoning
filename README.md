@@ -8,7 +8,7 @@ Federated learning (FL) enables decentralized training of deep neural networks (
 
 
 This repository contains the source code for the following papers in our lab:
-* Ka-Ho Chow and Ling Liu, "Perception Poisoning in Federated Learning," IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS), Virtual Conference, Dec. 13-15, 2021.
+* Ka-Ho Chow and Ling Liu, "Perception Poisoning Attacks in Federated Learning," IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS), Virtual Conference, Dec. 13-15, 2021.
 
 ## Installation and Dependencies
 This project runs on Python 3.6. You are highly recommended to create a virtual environment to make sure the dependencies do not interfere with your current programming environment. GPUs will be used to accelerate the process of DNN training. 
@@ -42,7 +42,7 @@ We are continuing the development and there is ongoing work in our lab regarding
 The code is provided as is, without warranty or support. If you use our code, please cite:
 ```
 @inproceedings{chow2021perception,
-  title={Perception Poisoning in Federated Learning},
+  title={Perception Poisoning Attacks in Federated Learning},
   author={Chow, Ka-Ho and Liu, Ling},
   booktitle={IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications},
   year={2021},
