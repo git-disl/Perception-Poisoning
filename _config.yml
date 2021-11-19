@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+title: "Perception Poisoning Attacks in Federated Learning"
+description: Ka-Ho Chow and Ling Liu
+
+show_downloads: True
